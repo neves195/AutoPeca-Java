@@ -20,4 +20,3 @@ public class Peca {
     public double getPreco() { return preco; }
     public int getQuantidade() { return quantidade; }
 }
- 

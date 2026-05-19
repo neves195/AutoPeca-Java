@@ -1,10 +1,21 @@
-import java.awt.*;
-import java.awt.event.*;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTable;
+import javax.swing.JPanel;
 import java.util.ArrayList;
-import javax.swing.*;
+import javax.swing.JButton;
+import java.awt.FlowLayout;
+import java.awt.GridLayout;
+import java.awt.BorderLayout;
+import javax.swing.JTextField;
+import javax.swing.JOptionPane;
+import javax.swing.JScrollPane;
+import java.awt.event.MouseEvent;
+import java.awt.event.ActionEvent;
+import java.awt.event.MouseAdapter;
+import java.awt.event.ActionListener;
 import javax.swing.table.DefaultTableModel;
  
-// Classe responsável pela interface gráfica do sistema
 public class FormularioPecas extends JFrame {
  
     private JTextField txtNome;
