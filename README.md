@@ -69,11 +69,15 @@ git clone https://github.com/neves195/AutoPeca-Java.git
 
 ## 👨‍💻 Autor / Author
 
-**João Pedro das Neves**
+**João Pedro das Neves** **Roger Henrique Diegoli**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-das-neves-2b30b1225)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neves195)
 
+**Roger Henrique Diegoli**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-henrique-958587291/?locale=pt)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerhenriquediegoli
 ---
 
 > 📌 Projeto acadêmico desenvolvido durante o curso de Sistemas de Informação — ITE Bauru.
